@@ -11,3 +11,5 @@ All I really want is to hold you tight.  Treat you right.
 ##This is an H2 tag below an H1
 
 Sometimes I run.  Sometimes I hide.
+
+<a href='https://learn.co/lessons/no-spec' data-visibility='hidden'>Learn.co resource</a>
